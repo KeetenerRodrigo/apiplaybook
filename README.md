@@ -44,7 +44,7 @@ Vamos começar pelo backend!
 
 <br />
 
-## Backend
+### Backend
 
 Fizemos o nosso backend em [Typescript](https://www.typescriptlang.org/), que é um subconunto de JavaScript desenvolvido pela Microsoft que adiciona tipagens e alguns recusos a linguagem. 
 
@@ -141,6 +141,7 @@ yarn dev:server
 ```
 
 <br/>
+
 ### Frontend
 
 Aqui tudo fica mais facil, o frontend foi todo feito em [ReactJS](https://pt-br.reactjs.org/), que é a uma biblioteca JavaScript para criar insterfaces de usuário! Simples definicão, não?! Mas esse "trem" é uma maravilha!
